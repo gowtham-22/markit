@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Text, TouchableOpacity, StyleSheet, Image, View} from 'react-native';
 
 
-class Sign_in extends Component {
+class Get_Started extends Component {
    render() {
       return (
          
@@ -23,7 +23,7 @@ class Sign_in extends Component {
       );
    }
 }
-export default Sign_in
+export default Get_started
 
 const styles = StyleSheet.create ({
    
